@@ -1,18 +1,11 @@
+
 <div align="center">
-  <table width="100%" cellspacing="0" cellpadding="0" style="border-collapse:collapse;">
-    <tr>
-      <td width="50%" align="left" valign="top" style="padding: 10px;">
-        <h1 style="font-size: 2.4em;">Salve! Eu sou o Brando 👋</h1>
-        <p style="font-size: 1.3em; line-height: 1.6;">
-          Desenvolvedor full-stack apaixonado por entregar produtos reais com qualidade de código, acessibilidade e performance.<br />
-          Viciado em resolver problemas complexos com soluções simples e funcionais. Bora trocar ideia? 🤝
-        </p>
-      </td>
-      <td width="50%" align="center" valign="middle" style="padding: 10px;">
-        <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExamZ4eGwwMnBhenc4YjF5YjhmNDk0NWY0eG9nOXVnN2tuaXhoMnowayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/5eLDrEaRGHegx2FeF2/giphy.gif" width="200" />
-      </td>
-    </tr>
-  </table>
+  <h1 style="font-size: 2.4em;">Salve! Eu sou o Brando 👋</h1>
+<p style="font-size: 1.3em; line-height: 1.6;">
+  Desenvolvedor full-stack apaixonado por entregar produtos reais com qualidade de código, acessibilidade e performance.<br />
+  Viciado em resolver problemas complexos com soluções simples e funcionais. Bora trocar ideia? 🤝
+</p>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWpqMWJudmNycDN5N3EzbHdoN3E4Y2hwdHZwd2QyeGJkemRvdHEzdiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/3iyKHMIKg5VWG6qHUm/giphy.gif" width="300" />
 </div>
 
 ### 💼 Atualmente na estrada com a Mundpay
