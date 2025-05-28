@@ -10,7 +10,7 @@
 
 ### 💼 Atualmente na estrada com a Mundpay
 
-Na [Mundpay](https://mundpay.com.br), atuo como **Frontend Developer** trabalhando em:
+Na [Mundpay](https://mundpay.com), atuo como **Frontend Developer** trabalhando em:
 
 - ⚡ Dashboards otimizados com **React.js**
 - 💳 Checkout de alta performance com **Next.js** e **TypeScript**
