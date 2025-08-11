@@ -73,7 +73,7 @@ Na [Mundpay](https://mundpay.com), atuo como **Frontend Developer** trabalhando 
 
 <p align="center">
   <a href="mailto:hildocontato@gmail.com"><img src="https://img.shields.io/badge/email-hildocontato@gmail.com-6c5ce7?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/hildodev"><img src="https://img.shields.io/badge/LinkedIn-hildodev-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/brandodevr"><img src="https://img.shields.io/badge/LinkedIn-hildodev-6c5ce7?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 <p align="center">
